@@ -110,6 +110,8 @@ The dataset contains anonymized e-commerce customer records, including:
 ## 📈 Visualizations & Techniques
 
 - **Bar charts** for category comparisons
+<img width="1783" height="1983" alt="Image" src="https://github.com/user-attachments/assets/d2c67b38-d14c-4bc7-89fb-103f4434ca5d" /> 
+
 - **Pie charts** for proportions
 - **Correlation heatmaps** to assess relationships
 - **Count plots & histograms** segmented by return customer status
