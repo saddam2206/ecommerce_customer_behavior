@@ -117,7 +117,8 @@ The dataset contains anonymized e-commerce customer records, including:
 - **Correlation heatmaps** to assess relationships
   <img width="639" height="384" alt="Image" src="https://github.com/user-attachments/assets/ef61bac0-45ae-4a92-87eb-735fade8d299" />
 - **Count plots & histograms** segmented by return customer status
-- **Dual-axis bar charts** for geographic analysis
+- **Dual-axis bar charts**  for geographic analysis
+ <img width="1184" height="584" alt="Image" src="https://github.com/user-attachments/assets/cedac8da-1bde-42ff-afca-29ef9caaf6df" />
 
 ---
 
