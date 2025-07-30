@@ -113,7 +113,6 @@ The dataset contains anonymized e-commerce customer records, including:
 <img width="1783" height="1983" alt="Image" src="https://github.com/user-attachments/assets/d2c67b38-d14c-4bc7-89fb-103f4434ca5d" /> 
 
 - **Pie charts** for proportions
- <img width="465" height="360" alt="Image" src="https://github.com/user-attachments/assets/101ad312-a5eb-42d8-82cb-9ecae156547c" />
  <img width="487" height="471" alt="Image" src="https://github.com/user-attachments/assets/771f06a5-c395-4ac4-b5d0-1deb9bedd4f3" />
 - **Correlation heatmaps** to assess relationships
   <img width="639" height="384" alt="Image" src="https://github.com/user-attachments/assets/ef61bac0-45ae-4a92-87eb-735fade8d299" />
