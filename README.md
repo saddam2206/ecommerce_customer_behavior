@@ -102,7 +102,7 @@ The dataset contains anonymized e-commerce customer records, including:
 - Majority used **Mobile** and **Desktop**, with slight increase in returns from **Tablet users**
 
 🔹 **Payment Method:**
-- Most common: **Credit Card**
+- Most common: **Bank Transfer**
 - However, payment method **did not strongly influence** satisfaction or return behavior
 
 ---
